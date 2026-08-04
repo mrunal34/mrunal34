@@ -21,7 +21,7 @@ learning about AWS architecture , CI/CD Pipeline , Docker , Kubernetes and many 
 
 
 
-### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=mrunal34&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
