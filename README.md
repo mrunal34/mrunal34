@@ -15,10 +15,10 @@ learning about AWS architecture , CI/CD Pipeline , Docker , Kubernetes and many 
 ![](https://nirzak-streak-stats.vercel.app/?user=mrunal34&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrunal34&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=mrunal34&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+
 
 
 ### 🔝 Top Contributed Repo
